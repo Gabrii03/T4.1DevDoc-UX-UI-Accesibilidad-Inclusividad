@@ -8,5 +8,5 @@ Como segunda ley se aplica la ley de Von Restorff, ya que las imágenes destacan
 La tercera ley es la ley de Parkinson, que dice que el usuario tarda más tiempo en realizar una interacción si la página web no lo limita. La página muestra una ventana emergente si el usuario no realiza ninguna acción en 30 segundos.
 ![Captura de pantalla 2024-01-22 223943](https://github.com/Gabrii03/T4.1DevDoc-UX-UI-Accesibilidad-Inclusividad/assets/114144425/b4ff1f7d-3695-4fdf-b4bb-57bdee44c413)
 
-
-https://www.figma.com/file/28gl7DfHi7YPWeUO4exBdj/T4.1DevDoc-UX%2BUI%2BAccesibilidad%2BInclusividad?type=design&node-id=0%3A1&mode=design&t=TJmD8A6fHoazrVOW-1
+·[Página web](https://gabrii03.github.io/T4.1DevDoc-UX-UI-Accesibilidad-Inclusividad/) 
+·[Figma](https://www.figma.com/file/28gl7DfHi7YPWeUO4exBdj/T4.1DevDoc-UX%2BUI%2BAccesibilidad%2BInclusividad?type=design&node-id=0%3A1&mode=design&t=TJmD8A6fHoazrVOW-1)
